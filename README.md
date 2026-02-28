@@ -39,8 +39,5 @@ The analysis produced the Top 10 routes with the highest average departure delay
 notebook/
     flight_delay_spark.ipynb
 
-report/
-    project_report.pdf
-
 ## Environment
 The project was executed in Google Colab using PySpark.
